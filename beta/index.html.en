@@ -1,0 +1,13 @@
+<TITLE> News Binder Website </TITLE>
+<HTML>
+<Center><H2>LOGO HERE<H2></Center>
+<Body>
+<CEnter>
+<Form Action="cgi-bin/start.cgi">
+<input name="query" type="text"  Size=50>
+<BR>
+<input type="submit" value="Search">&nbsp;&nbsp;&nbsp;<input type="reset">
+</Form>
+</Center>
+</Body>
+</HTML>
